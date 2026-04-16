@@ -7,7 +7,7 @@
 
 ---
 
-### 解题思路
+### 解题思路https://leetcode.cn/problems/remove-duplicates-from-sorted-array
 
 1. **双指针法**：设置两个双指针，`left`, `right`分别指向某个重复元素串的开头和当前处理 的元素位置
 2. **比较与替换**：比较`right`和`left-1`， 不相同则说明`right`为不重复元素，将`left`替换为`right`

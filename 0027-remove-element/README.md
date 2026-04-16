@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.cn/problems/merge-sorted-array">27. 移除元素</a></h2>
+<h2><a href="https://leetcode.cn/problems/remove-element">27. 移除元素</a></h2>
 <h3>简单</h3>
 <hr>
 <p>给你一个数组 <code>nums</code><em> </em>和一个值 <code>val</code>，你需要 <strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong> 移除所有数值等于 <code>val</code><em> </em>的元素。元素的顺序可能发生改变。然后返回 <code>nums</code> 中与 <code>val</code> 不同的元素的数量。</p>

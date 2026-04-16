@@ -12,6 +12,7 @@
 * [0027-移除元素](./0027-remove-element) —— 重点：双向双指针优化时间复杂度
 * [0026-移除有序数组中的重复项](./0026-remove-duplicates-from-sorted-array)
 * [0080-移除有序数组中的重复项 II](./0080-remove-duplicates-from-sorted-array-ii)
+* [0169-多数元素](./0169-majority-element) —— 重点：投票法（相异相消）优化空间至O(1)
 
 ### 🔗 动态规划
 
