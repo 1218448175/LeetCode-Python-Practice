@@ -14,6 +14,7 @@
 * [0080-移除有序数组中的重复项 II](./0080-remove-duplicates-from-sorted-array-ii)
 * [0169-多数元素](./0169-majority-element) —— 重点：投票法（相异相消）优化空间至O(1)
 * [0189-轮转数组](./0169-majority-element)
+* [0055-跳跃游戏](./0055-jump-game)
 
 ### 🔗 动态规划
 
