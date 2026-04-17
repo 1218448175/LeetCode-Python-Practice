@@ -18,6 +18,7 @@
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./0121-best-time-to-buy-and-sell-stock)
+- [0122-买卖股票的最佳时机 II](./0122-best-time-to-buy-and-sell-stock-ii) —— 重点：贪心优化空间至O(1)
 
 ---
 
