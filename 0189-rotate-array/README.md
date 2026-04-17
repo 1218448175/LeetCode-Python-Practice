@@ -1,9 +1,9 @@
 <h2><a href="https://leetcode.cn/problems/rotate-array">189. 轮转数组</a></h2>
 <h3>中等</h3>
 <hr>
-<p>给定一个整数数组 <code>nums</code>，将数组中的元素向右轮转 <code>k</code><em>&nbsp;</em>个位置，其中&nbsp;<code>k</code><em>&nbsp;</em>是非负数。</p>
+<p>给定一个整数数组 <code>nums</code>，将数组中的元素向右轮转 <code>k</code><em> </em>个位置，其中 <code>k</code><em> </em>是非负数。</p>
 
-<p>&nbsp;</p>
+<p> </p>
 <p><strong>示例 1:</strong></p>
 <pre><strong>输入:</strong> nums = [1,2,3,4,5,6,7], k = 3
 <strong>输出:</strong> <code>[5,6,7,1,2,3,4]</code>
