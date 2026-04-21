@@ -25,6 +25,7 @@
 * [0013-罗马数字转整数](./0013-roman-to-integer)
 * [0012-整数转罗马数字](./0012-integer-to-roman)
 * [0058-最后一个单词的长度](./0058-length-of-last-word)
+* [0014-最长公共前缀](./0014-longest-common-prefix)
 
 ### 🔗 动态规划
 
