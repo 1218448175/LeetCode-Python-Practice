@@ -28,7 +28,11 @@
 * [0014-最长公共前缀](./0014-longest-common-prefix)
 * [0151-反转字符串中的单词](./0151-reverse-words-in-a-string)
 * [0006-Z 字形变换](./0006-zigzag-conversion)
-* [28. 找出字符串中第一个匹配项的下标](./0028-find-the-index-of-the-first-occurrence-in-a-string) —— 重点：经典KMP算法
+* [0028-找出字符串中第一个匹配项的下标](./0028-find-the-index-of-the-first-occurrence-in-a-string) —— 重点：经典KMP算法
+
+### 🔗 双指针
+
+- [0125-验证回文串](./0125-valid-palindrome)
 
 ### 🔗 动态规划
 
