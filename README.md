@@ -35,6 +35,7 @@
 
 - [0125-验证回文串](./0125-valid-palindrome)
 - [0392-判断子序列](./0392-is-subsequence)
+- [0167-两数之和 II - 输入有序数组](./0167-two-sum-ii-input-array-is-sorted)
 
 ### 🔗 动态规划
 
