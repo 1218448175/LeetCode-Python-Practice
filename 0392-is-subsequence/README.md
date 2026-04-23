@@ -5,7 +5,7 @@
 <p>给定字符串 <strong>s</strong> 和 <strong>t</strong> ，判断 <strong>s</strong> 是否为 <strong>t</strong> 的子序列。</p>
 <p>字符串的一个子序列是原始字符串删除一些（也可以不删除）字符而不改变剩余字符相对位置形成的新字符串。（例如，<code>"ace"</code>是<code>"abcde"</code>的一个子序列，而<code>"aec"</code>不是）。</p>
 <p><strong>进阶：</strong></p>
-<p>&nbsp;</p>
+<p> </p>
 <p><strong>示例 1：</strong></p>
 <pre><strong>输入：</strong>s = "abc", t = "ahbgdc"
 <strong>输出：</strong>true
