@@ -44,6 +44,7 @@
 - [0209-长度最小的子数组](./0209-minimum-size-subarray-sum)
 - [0003-无重复字符的最长子串](./0003-longest-substring-without-repeating-characters)
 - [0030-串联所有单词的子串](,/0030-substring-with-concatenation-of-all-words) —— 计数溢出监控策略
+- [0076-最小覆盖子串](./0076-minimum-window-substring)
 
 ### 🔗 动态规划
 
