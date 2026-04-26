@@ -43,13 +43,14 @@
 
 - [0209-长度最小的子数组](./0209-minimum-size-subarray-sum)
 - [0003-无重复字符的最长子串](./0003-longest-substring-without-repeating-characters)
-- [0030-串联所有单词的子串](,/0030-substring-with-concatenation-of-all-words) —— 计数溢出监控策略
+- [0030-串联所有单词的子串](,/0030-substring-with-concatenation-of-all-words) —— 重点：计数溢出监控策略
 - [0076-最小覆盖子串](./0076-minimum-window-substring)
 
 ### 🔗 矩阵
 
 - [0036-有效的数独](./0036-valid-sudoku)
-- [0054-螺旋矩阵](./0054-spiral-matrix)
+- [0054-螺旋矩阵](./0054-spiral-matrix) —— 重点：向量控制方向
+- [0048-旋转矩阵](./0048-rotate-image) —— 重点：矩阵分块处理
 
 ### 🔗 动态规划
 
