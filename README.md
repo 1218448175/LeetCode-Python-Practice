@@ -8,61 +8,61 @@
 
 ### 🔗 数组与字符串
 
-* [0088-合并两个有序数组](./0088-merge-sorted-array) —— 重点：逆向双指针优化空间至 O(1)
-* [0027-移除元素](./0027-remove-element) —— 重点：双向双指针优化时间复杂度
-* [0026-移除有序数组中的重复项](./0026-remove-duplicates-from-sorted-array)
-* [0080-移除有序数组中的重复项 II](./0080-remove-duplicates-from-sorted-array-ii)
-* [0169-多数元素](./0169-majority-element) —— 重点：投票法（相异相消）优化空间至O(1)
-* [0189-轮转数组](./0169-majority-element)
-* [0055-跳跃游戏](./0055-jump-game)
-* [0055-跳跃游戏 II](./0055-jump-game-ii) —— 重点：贪心中的边界处理
-* [0274-H 指数](./0274-h-index) —— 重点：计数排序优化时间至O(n)
-* [0380-O(1) 时间插入、删除和获取随机元素](./0380-insert-delete-getrandom-o1) —— 重点：变长数组+HashMap
-* [0238-除了自身以外数组的乘积](./0238-product-of-array-except-self) —— 重点：动态构建右乘积列表优化空间为O(1)
-* [0134-加油站](./0134-gas-station)
-* [0135-分发糖果](./0135-candy) —— 重点：贪心算法实现 O(n) 一次遍历
-* [0042-接雨水](./0042-trapping-rain-water) —— 重点：双指针实现O(n)一次遍历
-* [0013-罗马数字转整数](./0013-roman-to-integer)
-* [0012-整数转罗马数字](./0012-integer-to-roman)
-* [0058-最后一个单词的长度](./0058-length-of-last-word)
-* [0014-最长公共前缀](./0014-longest-common-prefix)
-* [0151-反转字符串中的单词](./0151-reverse-words-in-a-string)
-* [0006-Z 字形变换](./0006-zigzag-conversion)
-* [0028-找出字符串中第一个匹配项的下标](./0028-find-the-index-of-the-first-occurrence-in-a-string) —— 重点：经典KMP算法
-* [0068-文本左右对齐](./0068-text-justification)
+* [0088-合并两个有序数组](./题目目录/0088-merge-sorted-array) —— 重点：逆向双指针优化空间至 O(1)
+* [0027-移除元素](./题目目录/0027-remove-element) —— 重点：双向双指针优化时间复杂度
+* [0026-移除有序数组中的重复项](./题目目录/0026-remove-duplicates-from-sorted-array)
+* [0080-移除有序数组中的重复项 II](./题目目录/0080-remove-duplicates-from-sorted-array-ii)
+* [0169-多数元素](./题目目录/0169-majority-element) —— 重点：投票法（相异相消）优化空间至O(1)
+* [0189-轮转数组](./题目目录/0169-majority-element)
+* [0055-跳跃游戏](./题目目录/0055-jump-game)
+* [0055-跳跃游戏 II](./题目目录/0055-jump-game-ii) —— 重点：贪心中的边界处理
+* [0274-H 指数](./题目目录/0274-h-index) —— 重点：计数排序优化时间至O(n)
+* [0380-O(1) 时间插入、删除和获取随机元素](./题目目录/0380-insert-delete-getrandom-o1) —— 重点：变长数组+HashMap
+* [0238-除了自身以外数组的乘积](./题目目录/0238-product-of-array-except-self) —— 重点：动态构建右乘积列表优化空间为O(1)
+* [0134-加油站](./题目目录/0134-gas-station)
+* [0135-分发糖果](./题目目录/0135-candy) —— 重点：贪心算法实现 O(n) 一次遍历
+* [0042-接雨水](./题目目录/0042-trapping-rain-water) —— 重点：双指针实现O(n)一次遍历
+* [0013-罗马数字转整数](./题目目录/0013-roman-to-integer)
+* [0012-整数转罗马数字](./题目目录/0012-integer-to-roman)
+* [0058-最后一个单词的长度](./题目目录/0058-length-of-last-word)
+* [0014-最长公共前缀](./题目目录/0014-longest-common-prefix)
+* [0151-反转字符串中的单词](./题目目录/0151-reverse-words-in-a-string)
+* [0006-Z 字形变换](./题目目录/0006-zigzag-conversion)
+* [0028-找出字符串中第一个匹配项的下标](./题目目录/0028-find-the-index-of-the-first-occurrence-in-a-string) —— 重点：经典KMP算法
+* [0068-文本左右对齐](./题目目录/0068-text-justification)
 
 ### 🔗 双指针
 
-- [0125-验证回文串](./0125-valid-palindrome)
-- [0392-判断子序列](./0392-is-subsequence)
-- [0167-两数之和 II - 输入有序数组](./0167-two-sum-ii-input-array-is-sorted)
-- [0011-盛最多水的容器](./0011-container-with-most-water)
-- [0015-三数之和](./0015-3sum)
+- [0125-验证回文串](./题目目录/0125-valid-palindrome)
+- [0392-判断子序列](./题目目录/0392-is-subsequence)
+- [0167-两数之和 II - 输入有序数组](./题目目录/0167-two-sum-ii-input-array-is-sorted)
+- [0011-盛最多水的容器](./题目目录/0011-container-with-most-water)
+- [0015-三数之和](./题目目录/0015-3sum)
 
 ### 🔗 滑动窗口
 
-- [0209-长度最小的子数组](./0209-minimum-size-subarray-sum)
-- [0003-无重复字符的最长子串](./0003-longest-substring-without-repeating-characters)
-- [0030-串联所有单词的子串](,/0030-substring-with-concatenation-of-all-words) —— 重点：计数溢出监控策略
-- [0076-最小覆盖子串](./0076-minimum-window-substring)
+- [0209-长度最小的子数组](./题目目录/0209-minimum-size-subarray-sum)
+- [0003-无重复字符的最长子串](./题目目录/0003-longest-substring-without-repeating-characters)
+- [0030-串联所有单词的子串](./题目目录/0030-substring-with-concatenation-of-all-words) —— 重点：计数溢出监控策略
+- [0076-最小覆盖子串](./题目目录/0076-minimum-window-substring)
 
 ### 🔗 矩阵
 
-- [0036-有效的数独](./0036-valid-sudoku)
-- [0054-螺旋矩阵](./0054-spiral-matrix) —— 重点：向量控制方向
-- [0048-旋转矩阵](./0048-rotate-image) —— 重点：矩阵分块处理
-- [0073-矩阵置零](./0048-rotate-image) —— 重点：首列复用与标志位
-- [0289-生命游戏](./0289-game-of-life) —— 重点：复合状态编码
+- [0036-有效的数独](./题目目录/0036-valid-sudoku)
+- [0054-螺旋矩阵](./题目目录/0054-spiral-matrix) —— 重点：向量控制方向
+- [0048-旋转矩阵](./题目目录/0048-rotate-image) —— 重点：矩阵分块处理
+- [0073-矩阵置零](./题目目录/0048-rotate-image) —— 重点：首列复用与标志位
+- [0289-生命游戏](./题目目录/0289-game-of-life) —— 重点：复合状态编码
 
 ### 🔗 哈希表
 
-- [0383-赎金信](./0383-ransom-note)
-- [0205-同构字符串](./0205-isomorphic-strings)
+- [0383-赎金信](./题目目录/0383-ransom-note)
+- [0205-同构字符串](./题目目录/0205-isomorphic-strings)
 
 ### 🔗 动态规划
 
-- [0121-买卖股票的最佳时机](./0121-best-time-to-buy-and-sell-stock)
-- [0122-买卖股票的最佳时机 II](./0122-best-time-to-buy-and-sell-stock-ii) —— 重点：贪心优化空间至O(1)
+- [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
+- [0122-买卖股票的最佳时机 II](./题目目录/0122-best-time-to-buy-and-sell-stock-ii) —— 重点：贪心优化空间至O(1)
 
 ---
 
