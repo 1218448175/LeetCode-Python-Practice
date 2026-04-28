@@ -83,9 +83,7 @@
 
 ### 代码回顾
 
-Python
-
-```
+```python
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         s_list = s.split(' ')
