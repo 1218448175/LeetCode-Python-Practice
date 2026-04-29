@@ -79,9 +79,7 @@
 
 ### 代码回顾
 
-Python
-
-```
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         # 1. 构造哈希表用于存放 {数值: 索引}
