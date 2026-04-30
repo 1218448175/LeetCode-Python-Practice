@@ -64,6 +64,7 @@
 - [0001-两数之和](./题目目录/0001-two-sum)
 - [0201-快乐数](./题目目录/0202-happy-number) —— 重点：哈希表检测循环
 - [0219-存在重复元素 II](./题目目录/0219-contains-duplicate-ii)
+- [0128-最长连续序列](./题目目录/0128-longest-consecutive-sequence)
 
 ### 🔗 动态规划
 
