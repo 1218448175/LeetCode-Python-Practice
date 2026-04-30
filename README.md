@@ -65,6 +65,7 @@
 - [0201-快乐数](./题目目录/0202-happy-number) —— 重点：哈希表检测循环
 - [0219-存在重复元素 II](./题目目录/0219-contains-duplicate-ii)
 - [0128-最长连续序列](./题目目录/0128-longest-consecutive-sequence)
+- [0056-合并区间](./题目目录/0056-merge-intervals)
 
 ### 🔗 哈希表
 
