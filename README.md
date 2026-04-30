@@ -66,6 +66,10 @@
 - [0219-存在重复元素 II](./题目目录/0219-contains-duplicate-ii)
 - [0128-最长连续序列](./题目目录/0128-longest-consecutive-sequence)
 
+### 🔗 哈希表
+
+- [0228-汇总区间](./题目目录/0228-summary-ranges)
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
