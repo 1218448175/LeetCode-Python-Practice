@@ -67,9 +67,12 @@
 - [0128-最长连续序列](./题目目录/0128-longest-consecutive-sequence)
 - [0056-合并区间](./题目目录/0056-merge-intervals)
 
-### 🔗 哈希表
+### 🔗 区间
 
 - [0228-汇总区间](./题目目录/0228-summary-ranges)
+- [0056-合并区间](./题目目录/0056-merge-intervals)
+- [0057-插入区间](./题目目录/0057-insert-interval)
+- [0452-用最少数量的箭引爆气球](./题目目录/0452-minimum-number-of-arrows-to-burst-balloons)
 
 ### 🔗 动态规划
 
