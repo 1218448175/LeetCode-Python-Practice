@@ -74,6 +74,10 @@
 - [0057-插入区间](./题目目录/0057-insert-interval)
 - [0452-用最少数量的箭引爆气球](./题目目录/0452-minimum-number-of-arrows-to-burst-balloons)
 
+### 🔗 区间
+
+- [0020-有效的括号](./题目目录/0020-valid-parentheses)
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
