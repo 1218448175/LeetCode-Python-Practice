@@ -77,9 +77,7 @@
 
 ### 代码回顾
 
-Python
-
-```
+```python
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         # 1. 按左端点排序

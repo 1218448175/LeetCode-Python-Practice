@@ -76,9 +76,7 @@
 
 ### 代码回顾
 
-Python
-
-```
+```python
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         # 1. 转化为集合，实现 O(1) 查找并去重

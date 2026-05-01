@@ -83,9 +83,7 @@
 
 ### 代码回顾
 
-Python
-
-```
+```python
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
         n = len(nums)
