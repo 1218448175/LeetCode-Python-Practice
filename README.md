@@ -74,9 +74,10 @@
 - [0057-插入区间](./题目目录/0057-insert-interval)
 - [0452-用最少数量的箭引爆气球](./题目目录/0452-minimum-number-of-arrows-to-burst-balloons)
 
-### 🔗 区间
+### 🔗 栈
 
 - [0020-有效的括号](./题目目录/0020-valid-parentheses)
+- [0071-简化路径](./题目目录/0071-simplify-path)
 
 ### 🔗 动态规划
 
