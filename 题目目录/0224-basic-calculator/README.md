@@ -118,5 +118,4 @@ class Solution:
                     i += 1
                 ret += num * sign
         return ret
-
 ```
