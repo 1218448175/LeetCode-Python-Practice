@@ -82,6 +82,10 @@
 - [0150-逆波兰表达式求值](./题目目录/0150-evaluate-reverse-polish-notation) —— 重点：双栈法
 - [0224-基本计算器](./题目目录/0224-basic-calculator) —— 重点：括号展开，避免双栈法的复杂逻辑
 
+### 🔗 链表
+
+- [0141-环形链表](./题目目录/0141-linked-list-cycle)
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
