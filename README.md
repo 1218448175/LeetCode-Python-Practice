@@ -79,7 +79,8 @@
 - [0020-有效的括号](./题目目录/0020-valid-parentheses)
 - [0071-简化路径](./题目目录/0071-simplify-path)
 - [0155-最小栈](./题目目录/0155-min-stack) —— 重点：使用辅助栈优化时间复杂度O(N)->O(1)
-- [0150-逆波兰表达式求值](./题目目录/0150-evaluate-reverse-polish-notation)
+- [0150-逆波兰表达式求值](./题目目录/0150-evaluate-reverse-polish-notation) —— 重点：双栈法
+- [0224-基本计算器](./题目目录/0224-basic-calculator) —— 重点：括号展开，避免双栈法的复杂逻辑
 
 ### 🔗 动态规划
 

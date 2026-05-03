@@ -98,5 +98,4 @@ class Solution:
                 stack.append(num)
 
         return stack[0]
-        
 ```
