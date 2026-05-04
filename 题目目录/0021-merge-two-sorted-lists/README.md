@@ -92,5 +92,4 @@ class Solution:
             q = q.next
         q.next = list1 if list1 else list2
         return head.next
-        
 ```
