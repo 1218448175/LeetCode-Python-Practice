@@ -87,7 +87,8 @@
 - [0141-环形链表](./题目目录/0141-linked-list-cycle) —— 快慢指针法(Floy算法)优化空间至O(1)
 - [0002-两数相加](./题目目录/0002-add-two-numbers)
 - [0021-合并两个有序链表](./题目目录/0021-merge-two-sorted-lists)
-- [0138-随机链表的复制](./题目目录/0138-copy-list-with-random-pointer)
+- [0138-随机链表的复制](./题目目录/0138-copy-list-with-random-pointer) —— 重点：拆分链表优化空间至O(1)
+- [0092-反转链表 II](./题目目录/0092-reverse-linked-list-ii)
 
 ### 🔗 动态规划
 
