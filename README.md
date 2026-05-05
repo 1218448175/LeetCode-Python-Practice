@@ -90,6 +90,7 @@
 - [0138-随机链表的复制](./题目目录/0138-copy-list-with-random-pointer) —— 重点：拆分链表优化空间至O(1)
 - [0092-反转链表 II](./题目目录/0092-reverse-linked-list-ii)
 - [0025-K 个一组翻转链表](./题目目录/0025-reverse-nodes-in-k-group)
+- [0082-删除排序链表中的重复元素 II](./题目目录/0082-remove-duplicates-from-sorted-list-ii)
 
 ### 🔗 动态规划
 
