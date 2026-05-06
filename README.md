@@ -92,6 +92,7 @@
 - [0025-K 个一组翻转链表](./题目目录/0025-reverse-nodes-in-k-group)
 - [0082-删除排序链表中的重复元素 II](./题目目录/0082-remove-duplicates-from-sorted-list-ii)
 - [0061-翻转链表](./题目目录/0061-rotate-list)
+- [0086-分隔链表](./题目目录/0086-partition-list)
 
 ### 🔗 动态规划
 

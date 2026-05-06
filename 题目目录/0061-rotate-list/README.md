@@ -136,7 +136,6 @@ class Solution:
             q = q.next
         q.next = None
         return head
-        
 ```
 
 # 
