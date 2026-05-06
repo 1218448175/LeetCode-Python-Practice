@@ -93,6 +93,7 @@
 - [0082-删除排序链表中的重复元素 II](./题目目录/0082-remove-duplicates-from-sorted-list-ii)
 - [0061-翻转链表](./题目目录/0061-rotate-list)
 - [0086-分隔链表](./题目目录/0086-partition-list)
+- [0146-LRU缓存](./题目目录/0146-lru-cache)
 
 ### 🔗 动态规划
 
