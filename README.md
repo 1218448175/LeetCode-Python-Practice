@@ -95,6 +95,11 @@
 - [0086-分隔链表](./题目目录/0086-partition-list)
 - [0146-LRU缓存](./题目目录/0146-lru-cache)
 
+### 🔗 链表
+
+- [0104-二叉树的最大深度](./题目目录/0104-maximum-depth-of-binary-tree)
+- [0100-相同的树](./题目目录/0100-same-tree)
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
