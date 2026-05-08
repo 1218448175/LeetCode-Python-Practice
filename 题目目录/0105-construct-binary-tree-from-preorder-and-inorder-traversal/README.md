@@ -96,7 +96,7 @@ size_left_subtree = inorder_root - inorder_left
 
 ### 5. 代码实现回顾
 
-```pytho
+```python
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
         def myBuildTree(pre_l: int, pre_r: int, in_l: int, in_r: int):

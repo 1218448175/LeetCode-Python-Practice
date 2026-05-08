@@ -101,7 +101,8 @@
 - [0100-相同的树](./题目目录/0100-same-tree)
 - [0226-翻转二叉树](./题目目录/0226-invert-binary-tree)
 - [0101-对称二叉树](./题目目录/0101-symmetric-tree)
-- [0105-从前序与中序遍历序列构造二叉树](./题目目录/0105-construct-binary-tree-from-preorder-and-inorder-traversal)
+- [0105-从前序与中序遍历序列构造二叉树](./题目目录/0105-construct-binary-tree-from-preorder-and-inorder-traversal) —— 重点：哈希表映射优化时间复杂度至O(1)
+- [0106-从中序与后序遍历序列构造二叉树](./题目目录/0106-construct-binary-tree-from-inorder-and-postorder-traversal)
 
 ### 🔗 动态规划
 
