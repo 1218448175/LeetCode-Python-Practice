@@ -106,6 +106,7 @@
 - [0117-填充每个节点的下一个右侧节点指针 II](./题目目录/0117-populating-next-right-pointers-in-each-node-ii)
 - [0114-二叉树展开为链表](./题目目录/0114-flatten-binary-tree-to-linked-list)
 - [0112-路径总和](./%E9%A2%98%E7%9B%AE%E7%9B%AE%E5%BD%95/0112-path-sum)
+- [0129-求根节点到叶节点数字之和](./题目目录/0129-sum-root-to-leaf-numbers)
 
 ### 🔗 动态规划
 
