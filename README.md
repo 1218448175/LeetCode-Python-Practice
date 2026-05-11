@@ -110,6 +110,7 @@
 - [0124-二叉树中的最大路径和](./题目目录/0124-binary-tree-maximum-path-sum) —— 重点：后序 DFS，区分子树全局最优与可向上延伸的单链
 - [0173-二叉搜索树迭代器](./题目目录/0173-binary-search-tree-iterator)
 - [0222-完全二叉树的节点个数](./题目目录/0222-count-complete-tree-nodes) —— 重点：左右边界等高则满树 2^h-1，否则分治O(log²n)
+- [0236-二叉树的最近公共祖先](./题目目录/0236-lowest-common-ancestor-of-a-binary-tree) —— 重点：后序 DFS，左右子树各找到一个目标则当前根为 LCA
 
 ### 🔗 动态规划
 
