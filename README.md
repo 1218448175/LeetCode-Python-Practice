@@ -108,7 +108,8 @@
 - [0112-路径总和](./%E9%A2%98%E7%9B%AE%E7%9B%AE%E5%BD%95/0112-path-sum)
 - [0129-求根节点到叶节点数字之和](./题目目录/0129-sum-root-to-leaf-numbers)
 - [0124-二叉树中的最大路径和](./题目目录/0124-binary-tree-maximum-path-sum) —— 重点：后序 DFS，区分子树全局最优与可向上延伸的单链
-- [0173-二叉搜索树迭代器](./题目目录/0173-binary-search-tree-iterator) —— 重点：栈模拟中序，摊还 O(1) 的 next
+- [0173-二叉搜索树迭代器](./题目目录/0173-binary-search-tree-iterator)
+- [0222-完全二叉树的节点个数](./题目目录/0222-count-complete-tree-nodes) —— 重点：左右边界等高则满树 2^h-1，否则分治O(log²n)
 
 ### 🔗 动态规划
 
