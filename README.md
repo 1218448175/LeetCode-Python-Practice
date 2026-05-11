@@ -112,6 +112,10 @@
 - [0222-完全二叉树的节点个数](./题目目录/0222-count-complete-tree-nodes) —— 重点：左右边界等高则满树 2^h-1，否则分治O(log²n)
 - [0236-二叉树的最近公共祖先](./题目目录/0236-lowest-common-ancestor-of-a-binary-tree) —— 重点：后序 DFS，左右子树各找到一个目标则当前根为 LCA
 
+### 🔗 二叉树的层次遍历
+
+- [0199-二叉树的右视图](./题目目录/0199-binary-tree-right-side-view) —— 重点：先右后左 DFS，每层首次访问的节点即该层最右可见；亦可用 BFS 取每层最后一个
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
