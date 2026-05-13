@@ -123,6 +123,7 @@
 
 - [0530-二叉搜索树的最小绝对差](./题目目录/0530-minimum-absolute-difference-in-bst)
 - [0230-二叉搜索树中第 K 小的元素](./题目目录/0230-kth-smallest-element-in-a-bst)
+- [0098-验证二叉搜索树](./题目目录/0098-validate-binary-search-tree)
 
 ### 🔗 动态规划
 
