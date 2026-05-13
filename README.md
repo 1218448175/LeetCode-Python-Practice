@@ -118,7 +118,11 @@
 - [0637-二叉树的层平均值](./题目目录/0637-average-of-levels-in-binary-tree)
 - [0102-二叉树的层序遍历](./题目目录/0102-binary-tree-level-order-traversal)
 - [0103-二叉树的锯齿形层序遍历](./题目目录/0103-binary-tree-zigzag-level-order-traversal)
+
+### 🔗 二叉树搜索树
+
 - [0530-二叉搜索树的最小绝对差](./题目目录/0530-minimum-absolute-difference-in-bst)
+- [0230-二叉搜索树中第 K 小的元素](./题目目录/0230-kth-smallest-element-in-a-bst)
 
 ### 🔗 动态规划
 
