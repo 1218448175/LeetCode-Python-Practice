@@ -125,6 +125,10 @@
 - [0230-二叉搜索树中第 K 小的元素](./题目目录/0230-kth-smallest-element-in-a-bst)
 - [0098-验证二叉搜索树](./题目目录/0098-validate-binary-search-tree)
 
+### 🔗 图
+
+- [0200-岛屿数量](./题目目录/0200-number-of-islands)
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
