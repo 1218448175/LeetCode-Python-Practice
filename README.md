@@ -140,6 +140,10 @@
 - [0433-最小基因变化](./题目目录/0433-minimum-genetic-mutation) —— 重点：单点突变生成邻居；`bank` 作合法节点集，BFS + 出队即删库去重
 - [0127-单词接龙](./题目目录/0127-word-ladder) —— 重点：单词与通配模式建二分图，一次合法变换对应 2 条边；`dis[end] // 2 + 1` 为序列长度
 
+### 🔗 字典树
+
+- [0208-实现 Trie (前缀树)](./题目目录/0208-implement-trie-prefix-tree) —— 重点：`dict` 子节点 + `end` 标记；`find` 返回 0/1/2 统一支撑 `search` 与 `startsWith`
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
