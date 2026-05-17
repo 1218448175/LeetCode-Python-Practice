@@ -143,6 +143,7 @@
 ### 🔗 字典树
 
 - [0208-实现 Trie (前缀树)](./题目目录/0208-implement-trie-prefix-tree) —— 重点：`dict` 子节点 + `end` 标记；`find` 返回 0/1/2 统一支撑 `search` 与 `startsWith`
+- [0211-添加与搜索单词 - 数据结构设计](./题目目录/0211-design-add-and-search-words-data-structure) —— 重点：Trie 插入不变；`search` 遇 `.` 对子节点 DFS 回溯匹配
 
 ### 🔗 动态规划
 
