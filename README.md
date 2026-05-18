@@ -146,6 +146,10 @@
 - [0211-添加与搜索单词 - 数据结构设计](./题目目录/0211-design-add-and-search-words-data-structure) —— 重点：Trie 插入不变；`search` 遇 `.` 对子节点 DFS 回溯匹配
 - [0212-单词搜索 II](./题目目录/0212-word-search-ii) —— 重点：Trie 存完整词 + 棋盘 DFS；命中后置空 `word`，子树搜尽则 `pop` 剪枝
 
+### 🔗 回溯
+
+- [0017-电话号码的字母组合](./题目目录/0017-letter-combinations-of-a-phone-number) —— 重点：按位枚举手机键字母；`append` → 递归 → `pop` 经典回溯模板
+
 ### 🔗 动态规划
 
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
