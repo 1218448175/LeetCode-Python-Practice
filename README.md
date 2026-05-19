@@ -137,18 +137,11 @@
 ### 🔗 图的广度优先搜索
 
 - [0909-蛇梯棋](./题目目录/0909-snakes-and-ladders) —— 重点：棋盘编号与锯齿坐标映射；掷骰+蛇梯构成隐式图，层序 BFS 求最短路
-- [0433-最小基因变化](./题目目录/0433-minimum-genetic-mutation) —— 重点：单点突变生成邻居；`bank` 作合法节点集，BFS + 出队即删库去重
-- [0127-单词接龙](./题目目录/0127-word-ladder) —— 重点：单词与通配模式建二分图，一次合法变换对应 2 条边；`dis[end] // 2 + 1` 为序列长度
-
-### 🔗 字典树
-
-- [0208-实现 Trie (前缀树)](./题目目录/0208-implement-trie-prefix-tree) —— 重点：`dict` 子节点 + `end` 标记；`find` 返回 0/1/2 统一支撑 `search` 与 `startsWith`
-- [0211-添加与搜索单词 - 数据结构设计](./题目目录/0211-design-add-and-search-words-data-structure) —— 重点：Trie 插入不变；`search` 遇 `.` 对子节点 DFS 回溯匹配
-- [0212-单词搜索 II](./题目目录/0212-word-search-ii) —— 重点：Trie 存完整词 + 棋盘 DFS；命中后置空 `word`，子树搜尽则 `pop` 剪枝
 
 ### 🔗 回溯
 
 - [0017-电话号码的字母组合](./题目目录/0017-letter-combinations-of-a-phone-number) —— 重点：按位枚举手机键字母；`append` → 递归 → `pop` 经典回溯模板
+- [0077-组合](./题目目录/0077-combinations) —— 重点：倒序选数保证组合不重复；`d = k - len(path)` 剪枝，`path.copy()` 收集答案
 
 ### 🔗 动态规划
 
