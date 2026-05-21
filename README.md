@@ -143,6 +143,7 @@
 - [0017-电话号码的字母组合](./题目目录/0017-letter-combinations-of-a-phone-number) —— 重点：按位枚举手机键字母；`append` → 递归 → `pop` 经典回溯模板
 - [0077-组合](./题目目录/0077-combinations) —— 重点：倒序选数保证组合不重复；`d = k - len(path)` 剪枝，`path.copy()` 收集答案
 - [0046-全排列](./题目目录/0046-permutations) —— 重点：固定前缀下标 `first`，与 `first..n-1` 交换后递归；回溯时换回复位
+- [0039-组合总和](./题目目录/0039-combination-sum) —— 重点：排序后 `sum > target` 剪枝；`for i in range(index, n)` 防重复组合，递归传 `i` 允许同一数无限次选取
 
 ### 🔗 动态规划
 
