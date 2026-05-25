@@ -111,6 +111,7 @@
 - [0173-二叉搜索树迭代器](./题目目录/0173-binary-search-tree-iterator)
 - [0222-完全二叉树的节点个数](./题目目录/0222-count-complete-tree-nodes) —— 重点：左右边界等高则满树 2^h-1，否则分治O(log²n)
 - [0236-二叉树的最近公共祖先](./题目目录/0236-lowest-common-ancestor-of-a-binary-tree) —— 重点：后序 DFS，左右子树各找到一个目标则当前根为 LCA
+- [0108-将有序数组转换为二叉搜索树](./题目目录/0108-convert-sorted-array-to-binary-search-tree) —— 重点：取中点作根的分治递归，天然高度平衡
 
 ### 🔗 二叉树的层次遍历
 
@@ -155,6 +156,10 @@
 - [0052-N皇后 II](./题目目录/0052-n-queens-ii) —— 重点：位运算优化空间
 - [0022-括号生成](./题目目录/0022-generate-parentheses) —— 重点：回溯中的选与不选
 - [0079-单词搜索](./题目目录/0079-word-search)
+
+### 🔗 分治
+
+- [0108-将有序数组转换为二叉搜索树](./题目目录/0108-convert-sorted-array-to-binary-search-tree) —— 重点：取中点作根的分治递归，天然高度平衡
 
 ### 🔗 动态规划
 
