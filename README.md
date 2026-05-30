@@ -170,6 +170,7 @@
 - [0122-买卖股票的最佳时机 II](./题目目录/0122-best-time-to-buy-and-sell-stock-ii) —— 重点：贪心优化空间至O(1)
 - [0019-删除链表的倒数第 N 个结点](./题目目录/0019-remove-nth-node-from-end-of-list)
 - [0053-最大子数组和](./题目目录/0053-maximum-subarray) —— 重点：Kadane 算法，维护以当前位置结尾的最大和与全局最优
+- [0954-环形子数组的最大和](./题目目录/0954-maximum-sum-circular-subarray) —— 重点：同时维护最大/最小子数组和，环形情况转化为总和减最小子数组
 
 ---
 
