@@ -29,6 +29,7 @@
 * [0151-反转字符串中的单词](./题目目录/0151-reverse-words-in-a-string)
 * [0006-Z 字形变换](./题目目录/0006-zigzag-conversion)
 * [0028-找出字符串中第一个匹配项的下标](./题目目录/0028-find-the-index-of-the-first-occurrence-in-a-string) —— 重点：经典KMP算法
+* [0035-搜索插入位置](./题目目录/0035-search-insert-position) —— 重点：二分查找定位插入位置
 * [0068-文本左右对齐](./题目目录/0068-text-justification)
 
 ### 🔗 双指针
