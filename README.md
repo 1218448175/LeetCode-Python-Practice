@@ -169,6 +169,7 @@
 
 ### 🔗 二分查找
 
+- [0004-寻找两个正序数组的中位数](./题目目录/0004-median-of-two-sorted-arrays) —— 重点：二分排除法求第 k 小数，每次排除 k/2 个元素，O(log(m+n))
 - [0033-搜索旋转排序数组](./题目目录/0033-search-in-rotated-sorted-array) —— 重点：旋转数组二分，判断哪半有序再决定搜索方向
 - [0034-在排序数组中查找元素的第一个和最后一个位置](./题目目录/0034-find-first-and-last-position-of-element-in-sorted-array) —— 重点：lower_bound 一次函数求左右边界，二分定位 target 和 target+1
 - [0153-寻找旋转排序数组中的最小值](./题目目录/0153-find-minimum-in-rotated-sorted-array) —— 重点：旋转数组二分，比较 mid 与左端判断哪半有序，递归缩小区间
