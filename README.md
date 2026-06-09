@@ -31,6 +31,7 @@
 * [0028-找出字符串中第一个匹配项的下标](./题目目录/0028-find-the-index-of-the-first-occurrence-in-a-string) —— 重点：经典KMP算法
 * [0035-搜索插入位置](./题目目录/0035-search-insert-position) —— 重点：二分查找定位插入位置
 * [0033-搜索旋转排序数组](./题目目录/0033-search-in-rotated-sorted-array) —— 重点：旋转数组二分，判断哪半有序再决定搜索方向
+* [0067-二进制求和](./题目目录/0067-add-binary) —— 重点：双指针模拟竖式加法，逢二进一
 * [0068-文本左右对齐](./题目目录/0068-text-justification)
 
 ### 🔗 双指针
