@@ -206,6 +206,7 @@
 
 - [0070-爬楼梯](./题目目录/0070-climbing-stairs) —— 重点：斐波那契递推 + 双变量滚动迭代，O(1) 空间
 - [0198-打家劫舍](./题目目录/0198-house-robber) —— 重点：选与不选的 DP 决策，双变量滚动优化到 O(1)
+- [0139-单词拆分](./题目目录/0139-word-break) —— 重点：前缀 DP + max_len 剪枝，可变范围扫描
 - [0121-买卖股票的最佳时机](./题目目录/0121-best-time-to-buy-and-sell-stock)
 - [0122-买卖股票的最佳时机 II](./题目目录/0122-best-time-to-buy-and-sell-stock-ii) —— 重点：贪心优化空间至O(1)
 - [0019-删除链表的倒数第 N 个结点](./题目目录/0019-remove-nth-node-from-end-of-list)
