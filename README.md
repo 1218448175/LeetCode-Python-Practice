@@ -111,6 +111,7 @@
 - [0117-填充每个节点的下一个右侧节点指针 II](./题目目录/0117-populating-next-right-pointers-in-each-node-ii)
 - [0114-二叉树展开为链表](./题目目录/0114-flatten-binary-tree-to-linked-list)
 - [0112-路径总和](./%E9%A2%98%E7%9B%AE%E7%9B%AE%E5%BD%95/0112-path-sum)
+- [0113-路径总和 II](./题目目录/0113-path-sum-ii) —— 重点：DFS + 回溯，维护 path 列表记录路径，递归返回时 pop 恢复现场
 - [0129-求根节点到叶节点数字之和](./题目目录/0129-sum-root-to-leaf-numbers)
 - [0124-二叉树中的最大路径和](./题目目录/0124-binary-tree-maximum-path-sum) —— 重点：后序 DFS，区分子树全局最优与可向上延伸的单链
 - [0173-二叉搜索树迭代器](./题目目录/0173-binary-search-tree-iterator)
