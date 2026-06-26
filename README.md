@@ -42,6 +42,7 @@
 - [0167-两数之和 II - 输入有序数组](./题目目录/0167-two-sum-ii-input-array-is-sorted)
 - [0011-盛最多水的容器](./题目目录/0011-container-with-most-water)
 - [0015-三数之和](./题目目录/0015-3sum)
+- [0018-四数之和](./题目目录/0018-4sum)
 
 ### 🔗 滑动窗口
 
@@ -239,6 +240,7 @@
 | -------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [0027-remove-element](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0027-remove-element/)         | undefined  |
 | [0088-merge-sorted-array](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0088-merge-sorted-array/) | undefined  |
+| [0018-4sum](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0018-4sum/)                             | Medium     |
 
 ## Two Pointers
 
@@ -246,9 +248,11 @@
 | -------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [0027-remove-element](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0027-remove-element/)         | undefined  |
 | [0088-merge-sorted-array](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0088-merge-sorted-array/) | undefined  |
+| [0018-4sum](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0018-4sum/)                             | Medium     |
 
 ## Sorting
 
 | Problem Name                                                                                                         | Difficulty |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [0088-merge-sorted-array](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0088-merge-sorted-array/) | undefined  |
+| [0018-4sum](https://github.com/1218448175/LeetCode-Python-Practice/tree/main/0018-4sum/)                             | Medium     |
