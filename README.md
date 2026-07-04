@@ -91,6 +91,7 @@
 ### 🔗 链表
 
 - [0141-环形链表](./题目目录/0141-linked-list-cycle) —— 快慢指针法(Floy算法)优化空间至O(1)
+- [0142-环形链表 II](./题目目录/0142-linked-list-cycle-ii) —— 重点：Floyd 两阶段判圈，数学证明定位环入口
 - [0002-两数相加](./题目目录/0002-add-two-numbers)
 - [0021-合并两个有序链表](./题目目录/0021-merge-two-sorted-lists)
 - [0138-随机链表的复制](./题目目录/0138-copy-list-with-random-pointer) —— 重点：拆分链表优化空间至O(1)
