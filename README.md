@@ -50,6 +50,7 @@
 - [0003-无重复字符的最长子串](./题目目录/0003-longest-substring-without-repeating-characters)
 - [0030-串联所有单词的子串](./题目目录/0030-substring-with-concatenation-of-all-words) —— 重点：计数溢出监控策略
 - [0076-最小覆盖子串](./题目目录/0076-minimum-window-substring)
+- [1456-定长子串中元音的最大数目](./题目目录/1456-maximum-number-of-vowels-in-a-substring-of-given-length) —— 重点：定长滑动窗口模板，单循环三步法 + 提前终止剪枝
 
 ### 🔗 矩阵
 
