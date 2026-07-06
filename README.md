@@ -51,6 +51,7 @@
 - [0030-串联所有单词的子串](./题目目录/0030-substring-with-concatenation-of-all-words) —— 重点：计数溢出监控策略
 - [0076-最小覆盖子串](./题目目录/0076-minimum-window-substring)
 - [1456-定长子串中元音的最大数目](./题目目录/1456-maximum-number-of-vowels-in-a-substring-of-given-length) —— 重点：定长滑动窗口模板，单循环三步法 + 提前终止剪枝
+- [0643-子数组最大平均数 I](./题目目录/0643-maximum-average-subarray-i) —— 重点：定长滑动窗口，和最大→平均数最大，循环内比和优化
 
 ### 🔗 矩阵
 
