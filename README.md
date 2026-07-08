@@ -53,6 +53,7 @@
 - [1456-定长子串中元音的最大数目](./题目目录/1456-maximum-number-of-vowels-in-a-substring-of-given-length) —— 重点：定长滑动窗口模板，单循环三步法 + 提前终止剪枝
 - [0643-子数组最大平均数 I](./题目目录/0643-maximum-average-subarray-i) —— 重点：定长滑动窗口，和最大→平均数最大，循环内比和优化
 - [1445-大小为 K 且平均值大于等于阈值的子数组数目](./题目目录/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) —— 重点：定长滑动窗口，平均值与和等价转换，target 差值追踪
+- [2211-半径为 k 的子数组平均值](./题目目录/2211-k-radius-subarray-averages) —— 重点：定长滑动窗口，预留一位的窗口策略，中心对称半径扩展
 
 ### 🔗 矩阵
 
